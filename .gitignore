@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+venv/
+__pycache__/app.cpython-39.pyc
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.idea/Ishan.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+Untitled.ipynb
+cnn_model_1.h5
